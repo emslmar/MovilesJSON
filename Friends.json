@@ -1,0 +1,14 @@
+[
+    {"name":"Emiliano", "age":"22", "hobby":"Swimming", "phone":"3338288131", "address":"av paseo real 21"},
+    {"name":"Mafer", "age":"23", "hobby":"Dancing", "phone":"222222222", "address":"av paseo real 22"},
+    {"name":"Bryan", "age":"24", "hobby":"Singing", "phone":"3333333333", "address":"av paseo real 23"},
+    {"name":"Dorkas", "age":"25", "hobby":"Gaming", "phone":"4444444444", "address":"av paseo real 24"},
+    {"name":"Oscar", "age":"26", "hobby":"Ballet", "phone":"5555555555", "address":"av paseo real 25"},
+    {"name":"Cristina", "age":"27", "hobby":"Soccer", "phone":"6666666666", "address":"av paseo real 26"},
+    {"name":"Paulo", "age":"28", "hobby":"Tennis", "phone":"7777777777", "address":"av paseo real 27"},
+    {"name":"Alex", "age":"29", "hobby":"Teaching", "phone":"8888888888", "address":"av paseo real 28"},
+    {"name":"Mabel", "age":"30", "hobby":"Reading", "phone":"9999999999", "address":"av paseo real 29"},
+    {"name":"Paulina", "age":"31", "hobby":"Photography", "phone":"0000000000", "address":"av paseo real 30"},
+    {"name":"Daniel", "age":"32", "hobby":"party", "phone":"1111111111", "address":"av paseo real 31"},
+    {"name":"Majo", "age":"33", "hobby":"Swimming", "phone":"1212121212", "address":"av paseo real 32"}
+]
